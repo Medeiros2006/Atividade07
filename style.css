@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&display=swap');
+
+.titulo{
+    background-color: darkgrey;
+    font-family: 'Instrument Serif', serif;
+    font-size: x-large;
+    font-style: oblique;
+    font-weight: 600;
+    color: brown;
+    text-align: center;
+    text-decoration: double;
+    text-transform: capitalize;
+}
+
+.p1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    font-style: oblique;
+    font-weight: 400;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    text-transform: lowercase;
+}
+
+.p2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    font-style: oblique;
+    font-weight: 400;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    text-transform: lowercase;
+}
